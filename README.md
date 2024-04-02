@@ -1,4 +1,4 @@
-### Parking Simulation
+# Parking Simulation
 ![Bodacious Blad](https://github.com/8818x/Parking-Simulation/blob/master/Bodacious%20Blad.png?raw=true)
 
 ## Introduction
